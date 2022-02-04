@@ -25,7 +25,7 @@ print(celcius % 2 == 0)
 
 #################################
 
-im = Image.open('person.tiff')
+im = Image.open('datasets/person.tiff')
 display(im)
 
 myArray = np.array(im)
