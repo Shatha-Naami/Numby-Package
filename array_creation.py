@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 aList = np.array([[1, 3, 7], [9, 0, 3]])
 print(aList)
